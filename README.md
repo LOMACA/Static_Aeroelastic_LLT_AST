@@ -1,1 +1,0 @@
-# Static_Aeroelastic_LLT_AST
