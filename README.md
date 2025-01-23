@@ -1,1 +1,1 @@
-# Static_Aeroelastic_LLT_AST
+In this directory, the documentation for the static aeroelastic tool is available.
